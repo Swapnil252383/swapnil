@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/swapnil/static/css/main.bf538fe7.css",
+    "main.js": "/swapnil/static/js/main.dce5d229.js",
+    "static/media/HeroImage.jpg": "/swapnil/static/media/HeroImage.2583043287ce8cae2f54.jpg",
+    "index.html": "/swapnil/index.html",
+    "main.bf538fe7.css.map": "/swapnil/static/css/main.bf538fe7.css.map",
+    "main.dce5d229.js.map": "/swapnil/static/js/main.dce5d229.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.dce5d229.js"
+  ]
+}
