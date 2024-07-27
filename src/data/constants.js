@@ -378,13 +378,13 @@ export const Bio = {
       member: [
         {
           name: "Rishav Chanda",
-          img: "https://avatars.githubusercontent.com/u/64485885?v=4",
+          img: "",
           linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
           github: "https://github.com/rishavchanda/",
         },
         {
           name: "Upasana Chaudhuri",
-          img: "https://avatars.githubusercontent.com/u/100614635?v=4",
+          img: "",
           linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
           github: "https://github.com/upasana0710",
         },
